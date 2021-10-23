@@ -17,7 +17,7 @@ Dataset yang digunakan adalah Plant LEaf Diseses yang bersumber dari PlantVillag
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](corn_leaf.png)
 
 
 
