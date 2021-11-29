@@ -51,7 +51,7 @@ Model yang digunakan adalah Alexnet Model
 - Model 1 (Alexnet)
   - Summary
     ![Example screenshot](assets/alexnetArsitektur.png)
-  - Confution matriks evaluation
+  - Confution matriks evaluation</br>
     ![Example screenshot](assets/alexnetMatrix.png)
   - grafik akurasi dan loss
     ![Example screenshot](assets/alexnetAccLoss.png)
