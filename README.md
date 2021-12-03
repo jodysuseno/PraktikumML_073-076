@@ -8,7 +8,7 @@
 Pada jurnal dataset yang digunakan menggunakan dataset gambar yang berasal dari PlantVillage. 
 Pada dataset ini dilakukan preprocessing seperti data augmentation dan spliting data. 
 Model yang digunakan pada praktikum ini adalah Model arsitektur yang bernama Alexnet dengan akurasi 93%.
-<img src="assets/alexnetArsitektur.png" width="300"/>
+</br><img src="assets/alexnetArsitektur.png" width="500"/>
 
 ## Dataset
 Dataset yang digunakan adalah Plant LEaf Diseses yang bersumber dari PlantVillage. dalam dataset tersebut memiliki 39 kelas yang berbeda dari daun tanaman dan gambar latar belakang. 
