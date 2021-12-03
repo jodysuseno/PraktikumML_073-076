@@ -50,11 +50,11 @@ Preprocesing data menggunakan metode berikut :
 Model yang digunakan adalah Alexnet Model
 - Model 1 (Alexnet)
   - Summary</br>
-    ![Example screenshot](assets/alexnetArsitektur.png | width=300)
+    <img src="assets/alexnetArsitektur.png" width="500"/>
   - Confution matriks evaluation</br>
-    ![Example screenshot](assets/alexnetMatrix.png | width=300)
+    <img src="assets/alexnetMatrix.png" width="500"/>
   - grafik akurasi dan loss</br>
-    ![Example screenshot](assets/alexnetAccLoss.png | width=300)
+    <img src="assets/alexnetAccLoss.png" width="500"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
@@ -68,11 +68,11 @@ Model yang digunakan adalah Alexnet Model
     | accuracy             |           |        | 0.92     | 3044    |
 - Model 2 (Alexnet Hyper Parameter)
   - Summary</br>
-    ![Example screenshot](assets/alexnetArsitektur.png | width=300)
+    <img src="assets/alexnetArsitektur.png" width="500"/>
   - matriks evaluation</br>
-    ![Example screenshot](assets/alexnetHparamMatrix.png | width=300)
+    <img src="assets/alexnetHparamMatrix.png" width="500"/>
   - grafik akurasi dan loss</br>
-    ![Example screenshot](assets/alexnetHparamAccLoss.png | width=300)
+    <img src="assets/alexnetHparamAccLoss.png" width="500"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
