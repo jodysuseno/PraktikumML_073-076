@@ -85,9 +85,9 @@ Model yang digunakan adalah Alexnet Model
 ## Predict pada sample data
 Model yang digunakan adalah Alexnet Model
 - Model 1 (Alexnet)
-  <img src="assets/testalexnet.png" style="background-color:white;"/>
+  <img src="assets/testalexnet.PNG" style="background-color:white;"/>
 - Model 2 (Densenet201Model)
-  <img src="assets/testdensenet.png" style="background-color:white;"/>
+  <img src="assets/testdensenet.PNG" style="background-color:white;"/>
 
 ## Sumber Referensi
  - [Dataset : Plant Leaf Diseases](https://data.mendeley.com/datasets/tywbtsjrjv/1)
