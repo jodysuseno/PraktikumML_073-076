@@ -8,7 +8,7 @@
 Pada jurnal dataset yang digunakan menggunakan dataset gambar yang berasal dari PlantVillage. 
 Pada dataset ini dilakukan preprocessing seperti data augmentation dan spliting data. 
 Model yang digunakan pada praktikum ini adalah Model arsitektur yang bernama Alexnet dengan akurasi 93%.
-</br><img src="assets/alexnetArsitektur.png" width="500"/>
+</br><img src="assets/alexnetArsitektur.png" width="500" style="background-color:white;"/>
 
 ## Dataset
 Dataset yang digunakan adalah Plant LEaf Diseses yang bersumber dari PlantVillage. dalam dataset tersebut memiliki 39 kelas yang berbeda dari daun tanaman dan gambar latar belakang. 
@@ -50,11 +50,11 @@ Preprocesing data menggunakan metode berikut :
 Model yang digunakan adalah Alexnet Model
 - Model 1 (Alexnet)
   - Summary</br>
-    <img src="assets/alexnetArsitektur.png" width="500"/>
+    <img src="assets/alexnetArsitektur.png" width="500" style="background-color:white;"/>
   - Confution matriks evaluation</br>
-    <img src="assets/alexnetconmtrx.png" width="500"/>
+    <img src="assets/alexnetconmtrx.png" width="500" style="background-color:white;"/>
   - grafik akurasi dan loss</br>
-    <img src="assets/alexnetaccloss.png" width="500"/>
+    <img src="assets/alexnetaccloss.png" width="500" style="background-color:white;"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
@@ -68,9 +68,9 @@ Model yang digunakan adalah Alexnet Model
     | accuracy             |           |        | 0.94     | 2682    |
 - Model 2 (Densenet201)
   - matriks evaluation</br>
-    <img src="assets/densenetconmtrx.png" width="500"/>
+    <img src="assets/densenetconmtrx.png" width="500" style="background-color:white;"/>
   - grafik akurasi dan loss</br>
-    <img src="assets/densenetaccloss.png" width="500"/>
+    <img src="assets/densenetaccloss.png" width="500" style="background-color:white;"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
@@ -85,9 +85,9 @@ Model yang digunakan adalah Alexnet Model
 ## Predict pada sample data
 Model yang digunakan adalah Alexnet Model
 - Model 1 (Alexnet)
-  <img src="assets/testalexnet.png"/>
+  <img src="assets/testalexnet.png" style="background-color:white;"/>
 - Model 2 (Densenet201Model)
-  <img src="assets/testdensenet.png"/>
+  <img src="assets/testdensenet.png" style="background-color:white;"/>
 
 ## Sumber Referensi
  - [Dataset : Plant Leaf Diseases](https://data.mendeley.com/datasets/tywbtsjrjv/1)
