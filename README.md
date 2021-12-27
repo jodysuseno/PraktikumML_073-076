@@ -52,40 +52,42 @@ Model yang digunakan adalah Alexnet Model
   - Summary</br>
     <img src="assets/alexnetArsitektur.png" width="500"/>
   - Confution matriks evaluation</br>
-    <img src="assets/alexnetMatrix.png" width="500"/>
+    <img src="assets/alexnetconmtrx.png" width="500"/>
   - grafik akurasi dan loss</br>
-    <img src="assets/alexnetAccLoss.png" width="500"/>
+    <img src="assets/alexnetaccloss.png" width="500"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
-    | Cercospora           | 0.64      | 0.94   | 0.76     | 405     |
+    | Cercospora           | 0.84      | 0.74   | 0.79     | 405     |
     | Common_rust          | 1.00      | 1.00   | 1.00     | 942     |
-    | Northern_Leaf_Blight | 0.97      | 0.72   | 0.82     | 779     |
-    | Corn_healthy         | 0.98      | 1.00   | 0.99     | 918     |
+    | Northern_Leaf_Blight | 0.87      | 0.93   | 0.90     | 779     |
+    | Corn_healthy         | 0.99      | 0.99   | 0.99     | 556     |
     |                      |           |        |          |         |
-    | macro avg            | 0.90      | 0.91   | 0.89     | 3044    |
-    | weighted avg         | 0.94      | 0.92   | 0.92     | 3044    |
-    | accuracy             |           |        | 0.92     | 3044    |
-- Model 2 (Alexnet Hyper Parameter)
-  - Summary</br>
-    <img src="assets/alexnetArsitektur.png" width="500"/>
+    | macro avg            | 0.93      | 0.92   | 0.92     | 2682    |
+    | weighted avg         | 0.94      | 0.94   | 0.94     | 2682    |
+    | accuracy             |           |        | 0.94     | 2682    |
+- Model 2 (Densenet201)
   - matriks evaluation</br>
-    <img src="assets/alexnetHparamMatrix.png" width="500"/>
+    <img src="assets/densenetconmtrx.png" width="500"/>
   - grafik akurasi dan loss</br>
-    <img src="assets/alexnetHparamAccLoss.png" width="500"/>
+    <img src="assets/densenetaccloss.png" width="500"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
-    | Cercospora           | 0.86      | 0.78   | 0.82     | 405     |
-    | Common_rust          | 1.00      | 0.99   | 1.00     | 942     |
-    | Northern_Leaf_Blight | 0.91      | 0.91   | 0.91     | 779     |
-    | Corn_healthy         | 0.96      | 1.00   | 0.98     | 918     |
+    | Cercospora           | 0.89      | 0.83   | 0.86     | 405     |
+    | Common_rust          | 0.99      | 0.99   | 0.99     | 942     |
+    | Northern_Leaf_Blight | 0.91      | 0.94   | 0.93     | 779     |
+    | Corn_healthy         | 1.00      | 1.00   | 1.00     | 918     |
     |                      |           |        |          |         |
-    | macro avg            | 0.93      | 0.92   | 0.93     | 3044    |
-    | weighted avg         | 0.95      | 0.95   | 0.95     | 3044    |
-    | accuracy             |           |        | 0.95     | 3044    |
+    | macro avg            | 0.95      | 0.94   | 0.95     | 3044    |
+    | weighted avg         | 0.96      | 0.96   | 0.96     | 3044    |
+    | accuracy             |           |        | 0.96     | 3044    |
 ## Predict pada sample data
-On Going
+Model yang digunakan adalah Alexnet Model
+- Model 1 (Alexnet)
+  <img src="assets/testalexnet.png"/>
+- Model 2 (Densenet201Model)
+  <img src="assets/testdensenet.png"/>
 
 ## Sumber Referensi
  - [Dataset : Plant Leaf Diseases](https://data.mendeley.com/datasets/tywbtsjrjv/1)
