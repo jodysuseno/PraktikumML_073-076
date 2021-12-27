@@ -54,7 +54,7 @@ Model yang digunakan adalah Alexnet Model
   - Confution matriks evaluation</br>
     <img src="assets/alexnetconmtrx.png" width="500" style="background-color:white;"/>
   - grafik akurasi dan loss</br>
-    <img src="assets/alexnetaccloss.png" width="500" style="background-color:white;"/>
+    <img src="assets/alexnetAccloss.png" width="500" style="background-color:white;"/>
   - Classification Report</br>
     |                      | precision | recall | f1-score | support |
     |----------------------|-----------|--------|----------|---------|
